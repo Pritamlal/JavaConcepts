@@ -1,0 +1,51 @@
+body{
+    background-image: url(image.png);
+    background-size: 50%;
+}
+form{
+    width:450px;
+    height:520px;
+    border:2px solid black;
+    border-radius: 5px;
+    margin-left: 38%;
+    margin-top: 8%;
+    background-color:whitesmoke;
+    box-shadow: white;
+}
+div{
+
+    margin-top:50px;
+    margin-left:20px;
+}
+.custom-input{
+    width:90%;
+    height:30px;
+    border-radius: 2px;
+    border:none;
+    border-bottom:2px solid black;
+    outline:none;
+}
+
+button{
+    margin-top:50px;
+    margin-left:85px;
+}
+.btn{
+    width:90px;
+    height:35px;
+    border-radius:4px;
+    border-color:black;
+}
+.btn:hover{
+    color:white;
+    background-color: blue;
+    transition: 0.2s ease-in-out;
+}
+
+.image2{
+    width:70px;
+    height:60px;
+    margin-left:42%;
+    margin-top:-25px;
+}
+
